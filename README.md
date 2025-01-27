@@ -38,17 +38,18 @@ By analyzing metrics such as revenue, profit, customer retention, and regional p
    - **Total Revenue**: `SUM(Sales[Amount])`  
    - **Profit Margin**: `DIVIDE([Total Profit], [Total Revenue])`  
    - **Customer Segmentation**: Grouped by demographics, purchase frequency, and region.
-   - **Average Order Value**: 'Details[Amount]/Details[Quantity]'
+   - **Average Order Value**: `Details[Amount]/Details[Quantity]`
 
 ### **Dashboard Design**
 1. Developed an intuitive layout to represent key metrics:  
    - **Profict Trends**: Visualized with Stacked column charts by month.
    - **Profict Trends over subcategory**: used Stacked bar chart.
    - **Customer Segmentation**: Represented with Stacked column charts.  
-   - **Regional Performance**: Mapped through geo charts for visual impact in Stacked bar             chart.
+   - **Regional Performance**: Mapped through geo charts for visual impact in Stacked bar chart.
    - **PaymentMode,Categorry Segmentation**: evaluted with quantity in donut chart.
 2. Added slicers and filters for dynamic exploration:  
-   - Filter by product category, region, time period, and customer type.  
+   - Filter by product category, region, time period, and customer type.
+   - ![Filters](https://github.com/user-attachments/assets/eaf7fc22-36d8-4cde-879b-ba95e12c0cfc)
    - Drill-down functionality for granular insights.  
 3. Customized color schemes and formatting to improve readability and engagement.  
 
