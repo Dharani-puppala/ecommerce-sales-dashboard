@@ -27,11 +27,11 @@ By analyzing metrics such as revenue, profit, customer retention, and regional p
 ## Key Metrics
 
 ### **Financial Metrics**
-- **Total Revenue**: $438K
-- **Total Profit**: $37K 
-- **Total Quantity**: 5615 
-- **Total Average Order**: $121K
-- **Highest ordered month**: November
+ - **Total Revenue**: $438K
+ - **Total Profit**: $37K 
+ - **Total Quantity**: 5615 
+ - **Total Average Order**: $121K
+ - **Highest ordered month**: November
 
 ### **Category Metrics**
 - **Highest Quantity Ordered**: 63%(Clothing)
