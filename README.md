@@ -31,8 +31,10 @@ By analyzing metrics such as revenue, profit, customer retention, and regional p
 1. Imported datasets (`csv`, `xlsx`) into Power BI Desktop.  
 2. Cleaned and transformed data:
    - Addressed missing or null values in key columns.  
-   - Verified data quality using Power Query's column profiling tools.  
-3. Created new calculated columns and DAX measures for analysis:  
+   - Verified data quality using Power Query's column profiling tools.
+3.Created connections between tables
+   -![tables](https://github.com/user-attachments/assets/5b8ce762-2a14-4e76-b595-78d678c046ee)  
+4. Created new calculated columns and DAX measures for analysis:  
    - **Total Revenue**: `SUM(Sales[Amount])`  
    - **Profit Margin**: `DIVIDE([Total Profit], [Total Revenue])`  
    - **Customer Segmentation**: Grouped by demographics, purchase frequency, and region.
