@@ -82,6 +82,12 @@ By analyzing metrics such as revenue, profit, customer retention, and regional p
  
 ---
 
+## Dashboard
+
+![Project](https://github.com/user-attachments/assets/47d85fd6-7dd0-45fd-a624-45ced64de00b)
+
+---
+
 ## Insights & Recommendations
 
 1. **Revenue Growth**  
